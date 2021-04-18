@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "protocol.h": "c",
+        "memory.h": "c",
+        "file.h": "c",
+        "efilib.h": "c",
+        "efi.h": "c",
+        "entity.h": "c"
+    }
+}
